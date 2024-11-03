@@ -24,4 +24,4 @@ We are the team behind [Case Converter](https://caseconverter.cc/)! This is the 
 
 - **GitHub Issues:** For feature requests, bug reports, or general inquiries, please use the issue tracker in our repositories.
 - **Contact Form:** Use [caseconverter.cc/contact](https://caseconverter.cc/contact) for direct support or collaboration proposals.
-- **Social Media:** Follow us on [Twitter](https://twitter.com/CaseConverterCC) and [Facebook](https://www.facebook.com/caseconvertercc) for updates, tips, and community engagement.
+- **Social Media:** Follow us on [X (formerly Twitter)](https://x.com/CaseConverterCC) and [Facebook](https://www.facebook.com/caseconvertercc) for updates, tips, and community engagement.
